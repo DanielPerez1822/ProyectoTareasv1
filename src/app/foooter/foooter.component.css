@@ -1,0 +1,9 @@
+.container-fluid{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    padding: 10px 0;
+    color: hwb(0 100% 0%); 
+    background-color: #0277bd;
+    bottom: 0;
+}
